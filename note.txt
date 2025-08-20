@@ -1,0 +1,7 @@
+Afro Luxury Homes - Test File
+
+This is a simple text file for testing commits and uploads to GitHub.
+
+Brand: Afro Luxury Homes
+Purpose: Static website & GitHub hosting practice
+File type: .txt
